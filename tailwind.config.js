@@ -30,7 +30,7 @@ module.exports = {
         'tertiary': '#61AEC9',
         },
         fontFamily:{
-          'Montserrat':['montserrat','sanserif']
+          'Montserrat':['Montserrat','sans-serif']
         }
     },
   },
