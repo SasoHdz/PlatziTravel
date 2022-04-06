@@ -2,3 +2,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.Card {
+    @apply w-48 h-64 shadow-md rounded-lg mt-4
+}
+
+.Card_Img {
+    @apply w-full h-3/5 rounded-t-lg bg-cover
+}
+
+.Card_Text {
+   @apply w-full h-2/5 rounded-b-lg flex flex-col justify-center gap-2 p-4
+}
